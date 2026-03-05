@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Olawale dayo Ibrahim</h1>
-<h3 align="center">Computer Science student at NOUN Frontend Developer passionate about building responsive and user-friendly web interfaces</h3>
+<h3 align="center">Computer Science student at NOUN Fullstack Developer passionate about building responsive user-friendly web interfaces and scalable system</h3>
 
 - 🔭 I’m currently working on [Habits tracker api](dayofullstack.me/api/register don’t click is not running)
 
