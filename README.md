@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Any project don’t exitate to contact me**
 
-- 👨‍💻 All of my projects are available at [temidayo.tech](temidayo.tech)
+- 👨‍💻 All of my projects are available at [temidayo.tech](https://temidayo.tech)
 
 - 💬 Ask me about **React, node**
 
