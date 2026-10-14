@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Olawale dayo Ibrahim</h1>
 <h3 align="center">Computer Science student and a Fullstack Developer passionate about building responsive user-friendly web interfaces and scalable system</h3>
 
-- 🔭 I’m currently working on [Habits tracker api](dayofullstack.me/api/register don’t click is not running)
-
-- 🌱 I’m currently learning **Docker on frontend master.**
+- 🔭 I’m currently working on Reserva
 
 - 👯 I’m looking to collaborate on **Any project don’t exitate to contact me**
 
